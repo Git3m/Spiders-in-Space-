@@ -7,10 +7,10 @@ You can find gamemaker setup here: http://www.yoyogames.com/get
 
 **Game Info**
 <p>There are currently two modes</o>
-<li>1.Unlimited mode<li>
+1.Unlimited mode
 Kill the spider eggs which will  spawn spiders in the room,each kill gets you points, remember to dodge the spiders.
 
-<li>2.Capture the gem<li>
+2.Capture the gem
 capture the gem which gets randomly spawned also you have to dodge the enemies and there is no way to shoot them.
 After capturing the gem,the number of enemies will increase.
 
